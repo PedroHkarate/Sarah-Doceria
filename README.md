@@ -4,6 +4,6 @@
 
 * Passos a serem feitos:
 
-  * Finalização do carrossél de imagens na página inicial;
+  * Finalização do carrossel de imagens na página inicial;
   * Adição da descrição do site na página inicial;
   * Desenvolvimento das Páginas "Cardápio" e "Atendimento";
