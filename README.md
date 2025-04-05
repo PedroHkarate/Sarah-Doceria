@@ -7,4 +7,5 @@
   * Finalização do carrossel de imagens na página inicial;
   * Adição da descrição do site na página inicial;
   * Desenvolvimento das Páginas "Cardápio" e "Atendimento";
-  * Ajustar responsividade;
+  * Adicionar ícone do site na aba ao lado do título;
+  * Ajustar responsividade.
