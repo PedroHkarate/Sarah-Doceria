@@ -7,4 +7,4 @@
   * Finalização do carrossel de imagens na página inicial;
   * Adição da descrição do site na página inicial;
   * Desenvolvimento das Páginas "Cardápio" e "Atendimento";
-  * Melhorar Responsividade como um todo;
+  * Ajustar responsividade;
