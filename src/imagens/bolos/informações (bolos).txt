@@ -1,0 +1,9 @@
+Mesclado: massa, mesclado; cobertura, 2 amores
+
+Bolo de Cenoura: massa, bolo de cenoura; cobertura, chocolate
+
+Bolo de Laranja: massa, bolo de laranja; cobertura, laranja
+
+Bolo Neutro: massa, neutra; cobertura, acabaxi
+
+Bolo de Chocolate: massa, chocolate; cobertura, chocolate meio amargo

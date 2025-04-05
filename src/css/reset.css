@@ -1,0 +1,21 @@
+@media (min-width: 600px) {
+    .container {
+        font-size: 1.5rem;
+    }
+}
+
+@media (max-width: 599px) {
+    .container {
+        font-size: 1rem;
+    }
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul{
+    list-style: none;
+}
